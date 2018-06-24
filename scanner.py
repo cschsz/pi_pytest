@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # call with "python scanner.py SSH"
 import socket
 import sys
